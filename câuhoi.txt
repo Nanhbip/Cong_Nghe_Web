@@ -1,0 +1,1 @@
+Tại sao khi đăng nhập bằng form chúng ta nên dùng $_POST thay vì $_GET để gửi dữ liệu?
