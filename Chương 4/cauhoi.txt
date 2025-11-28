@@ -1,0 +1,1 @@
+Tại sao nếu không dùng header('Location: chapter4.php') thì khi reload trang (F5) dữ liệu có thể bị chèn trùng vào CSDL?
