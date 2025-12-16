@@ -1,0 +1,1 @@
+Tại sao trong Laravel, việc định tuyến (routes/web.php) lại được tách riêng khỏi Controller, thay vì viết chung trong Controller như cách làm ở PHP thuần? Việc tách này mang lại lợi ích gì cho việc quản lý và mở rộng ứng dụng?
