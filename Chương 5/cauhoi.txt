@@ -1,0 +1,1 @@
+Tại sao trong mô hình MVC, file View chỉ được phép hiển thị dữ liệu mà không được viết code truy vấn CSDL? Nếu View vừa hiển thị vừa truy vấn dữ liệu thì sẽ gây ra những vấn đề gì?
