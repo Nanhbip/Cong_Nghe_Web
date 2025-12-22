@@ -1,0 +1,1 @@
+Tại sao Laravel khuyến khích sử dụng cơ chế kế thừa layout của Blade (@extends, @yield, @section) thay vì viết toàn bộ mã HTML cho mỗi trang riêng lẻ? Cách làm này mang lại lợi ích gì trong việc bảo trì và mở rộng website?
