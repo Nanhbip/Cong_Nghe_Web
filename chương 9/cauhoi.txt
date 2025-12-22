@@ -1,0 +1,1 @@
+Vì sao Laravel yêu cầu phải thêm @csrf vào các form POST? Điều gì có thể xảy ra nếu lập trình viên quên thêm @csrf?
