@@ -1,0 +1,1 @@
+So với PDO ở Chương 4, Eloquent ORM ở Chương 8 giúp việc thao tác với CSDL trong Laravel đơn giản và dễ bảo trì hơn như thế nào? Trong trường hợp nào nên dùng Eloquent và khi nào nên dùng SQL/PDO thuần?
